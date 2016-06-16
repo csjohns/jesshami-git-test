@@ -12,3 +12,4 @@ def fib(n):
 print(list(fib(10)))
 
 print_hello_world()
+print("goodbye")
